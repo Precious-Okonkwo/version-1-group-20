@@ -27,6 +27,11 @@ a:hover {
 h1:hover {
     transform: scale(1.05);
 }
+
+.hero {
+    padding: 5px 10px;
+
+}
 .about {
     background-color: #f6f3;
     border-bottom: 2px solid black;
@@ -46,7 +51,4 @@ h1:hover {
     color: white;
     cursor: pointer;
 }
-.hero{
-    padding: 5px 10px;
 
-}
