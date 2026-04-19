@@ -27,3 +27,7 @@ a:hover {
 h1:hover {
     transform: scale(1.05);
 }
+.hero{
+    padding: 5px 10px;
+
+}
