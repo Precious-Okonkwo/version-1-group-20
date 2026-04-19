@@ -27,3 +27,22 @@ a:hover {
 h1:hover {
     transform: scale(1.05);
 }
+.about {
+    background-color: #f6f3;
+    border-bottom: 2px solid black;
+    height: 4rem;
+    width: auto;
+}
+.about h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.about p{
+    font-style: italic;
+}
+.about:hover *{
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+}
